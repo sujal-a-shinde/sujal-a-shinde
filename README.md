@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:8e2de2&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20ROBOTICS%20ENGINEER&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:8e2de2&height=200&section=header&text=Sujal%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20ROBOTICS%20ENGINEER&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- ==================== SKILL BADGES ROW ==================== -->
 <p>
