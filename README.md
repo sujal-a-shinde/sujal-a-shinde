@@ -26,7 +26,7 @@
 - 🧠 Passionate about Machine Learning, Deep Learning and Large Language Models
 - 🤖 Building AI Agents, RAG Systems, Computer Vision applications and Autonomous Robots
 - 🚀 Interested in solving real-world problems with AI and Robotics
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **sujalshinde200411@gmail.com**
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 <br>
