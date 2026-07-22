@@ -22,7 +22,7 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 👋 About Me
 
-- 🎓 Your degree / field of study (e.g. Robotics & Automation Engineering Student)
+- 🎓 Your degree / field of study Robotics & Automation Engineering Student)
 - 🧠 Passionate about Machine Learning, Deep Learning and Large Language Models
 - 🤖 Building AI Agents, RAG Systems, Computer Vision applications and Autonomous Robots
 - 🚀 Interested in solving real-world problems with AI and Robotics
